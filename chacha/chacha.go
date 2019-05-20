@@ -4,7 +4,7 @@
 
 // Package chacha implements some low-level functions of the
 // ChaCha cipher family.
-package chacha // import "github.com/aead/chacha20/chacha"
+package chacha
 
 import (
 	"encoding/binary"
